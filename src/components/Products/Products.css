@@ -1,0 +1,20 @@
+
+
+
+.product{
+  display: flex;
+  border-bottom: 1px solid rgb(182, 182, 182);
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+}
+.product .imgBox{
+  padding-right: 20px;
+}
+.product-name{
+  color: rgb(0, 136, 255);
+}
+.btn{
+  width:180px;
+}
+
+
